@@ -1,0 +1,13 @@
+nombre,genero,rating,precio_usd,plataforma
+The Witcher 3,RPG,96,30,"PC,PS4"
+Cyberpunk 2077,RPG,75,60,"PC,PS5,Xbox"
+Stardew Valley,Simulación,89,15,"PC,Switch"
+Hades,Roguelike,94,25,"PC,Switch"
+Baldur's Gate 3,RPG,97,60,"PC,PS5"
+Elden Ring,RPG,95,60,"PC,PS5,Xbox"
+Minecraft,Aventura,88,27,"PC,Android"
+Terraria,Aventura,87,10,"PC,Switch"
+Counter-Strike 2,FPS,82,0,PC
+Dota 2,MOBA,85,0,PC
+Among Us,Party,79,5,"PC,Android"
+Valorant,FPS,84,0,PC
